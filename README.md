@@ -57,12 +57,14 @@ Simply open [Lovable](https://lovable.dev/projects/3be62187-f835-443e-ba7f-6c85a
 
 
 ## Screenshots for Demo
-<img width="1113" height="820" alt="image" src="https://github.com/user-attachments/assets/b5049f63-548f-4695-a9b1-553bdde066c2" />
-<img width="1121" height="850" alt="image" src="https://github.com/user-attachments/assets/76767cc7-5c37-49c1-9d9f-42e7dd221884" />
-<img width="1112" height="845" alt="image" src="https://github.com/user-attachments/assets/dffcdfae-514b-49c5-9ddf-edbb53824412" />
+<img width="1390" height="837" alt="image" src="https://github.com/user-attachments/assets/32063e7f-6d1b-47bb-a86f-a1bc83ed8f8b" />
+<img width="1342" height="788" alt="image" src="https://github.com/user-attachments/assets/d25c4167-b603-4f8f-b349-0dc6f97d5765" />
+<img width="1215" height="846" alt="image" src="https://github.com/user-attachments/assets/4cbd30c6-579b-4958-8fcb-fa291564f00c" />
+<img width="1138" height="727" alt="image" src="https://github.com/user-attachments/assets/f79405e3-1df0-42a6-bfe3-f5362c8f154f" />
+<img width="1137" height="845" alt="image" src="https://github.com/user-attachments/assets/e77a7df4-3015-4413-888b-4bf203609c87" />
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
+
+
