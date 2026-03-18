@@ -1,18 +1,9 @@
 # Welcome to your Lovable project
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/3be62187-f835-443e-ba7f-6c85a9cd350d
+This project was created with a help of AI. I used Lovable to optimazed my work. Despite using Lovable I managed and improve all details manually.
 
 ## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/3be62187-f835-443e-ba7f-6c85a9cd350d) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -64,7 +55,11 @@ This project is built with:
 
 Simply open [Lovable](https://lovable.dev/projects/3be62187-f835-443e-ba7f-6c85a9cd350d) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+
+## Screenshots for Demo
+<img width="1113" height="820" alt="image" src="https://github.com/user-attachments/assets/b5049f63-548f-4695-a9b1-553bdde066c2" />
+<img width="1121" height="850" alt="image" src="https://github.com/user-attachments/assets/76767cc7-5c37-49c1-9d9f-42e7dd221884" />
+<img width="1112" height="845" alt="image" src="https://github.com/user-attachments/assets/dffcdfae-514b-49c5-9ddf-edbb53824412" />
 
 Yes, you can!
 
