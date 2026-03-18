@@ -1,0 +1,4 @@
+project_id = "bqvxjthkzvlfthukjnes"
+
+[functions.get-dat-market-rates]
+verify_jwt = false
