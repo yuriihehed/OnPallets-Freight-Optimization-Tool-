@@ -1,4 +1,3 @@
-# Welcome to your Lovable project
 
 ## Project info
 This project was created with a help of AI. I used Lovable to optimazed my work. Despite using Lovable I managed and improve all details manually.
